@@ -11,6 +11,6 @@ Interessante Aufgaben etc. werden gerne per PR angenommen.
 - [Microsoft Docs | Work with data in C# - Learn](https://docs.microsoft.com/en-us/learn/paths/csharp-data/)
 
 ## Aufgaben
-- [Geldwechsler](Moneyhanger.md)
+- [Geldwechsler](Moneychanger.md)
 - [Palindrom](Palindrom.md)
 - [FizzBuzz](FizzBuzz.md)
